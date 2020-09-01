@@ -66,6 +66,5 @@ data
 env_file
 env_file*
 env_file.*
-env*
 .env
 env.yml
