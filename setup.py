@@ -9,7 +9,8 @@ reqs = [
     "pillow",
     "scipy",
     "scikit-learn",
-    "yaml"
+    "yaml",
+    "tensorflow"
 ]
 
 conda_reqs = [
@@ -21,7 +22,8 @@ conda_reqs = [
     "pillow",
     "scipy",
     "scikit-learn",
-    "yaml"
+    "yaml",
+    "tensorflow"
 ]
 
 test_pkgs = []
