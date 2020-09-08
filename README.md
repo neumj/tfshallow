@@ -8,6 +8,6 @@ tensor flow learning code
 conda env create -f environment.yml 
 
 # for active development
-conda activate deepnn
+conda activate tfshallow
 
 pip install -e . --no-deps
