@@ -10,7 +10,7 @@ reqs = [
     "scipy",
     "scikit-learn",
     "yaml",
-    "tensorflow"
+    "tensorflow==1.15"
 ]
 
 conda_reqs = [
@@ -23,7 +23,7 @@ conda_reqs = [
     "scipy",
     "scikit-learn",
     "yaml",
-    "tensorflow"
+    "tensorflow==1.15"
 ]
 
 test_pkgs = []

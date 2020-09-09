@@ -13,4 +13,4 @@ dependencies:
   - scipy
   - scikit-learn
   - yaml
-  - tensorflow
+  - tensorflow=1.15

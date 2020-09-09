@@ -1,6 +1,7 @@
+import tensorflow as tf
 from tensorflow.python.framework import ops
-
-
+from tfshallow.initializations import create_placeholders
+from tfshallow.initializations import initialize_parameters
 
 def model(X_train, Y_train, X_test, Y_test, learning_rate=0.0001,
           num_epochs=1500, minibatch_size=32, print_cost=True):
