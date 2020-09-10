@@ -7,10 +7,11 @@ reqs = [
     "numpy",
     "pandas",
     "pillow",
-    "scipy",
+    "scipy==1.2.1",
     "scikit-learn",
     "yaml",
-    "tensorflow"
+    "tensorflow==1.15",
+    "imageio"
 ]
 
 conda_reqs = [
@@ -20,10 +21,11 @@ conda_reqs = [
     "numpy",
     "pandas",
     "pillow",
-    "scipy",
+    "scipy==1.2.1",
     "scikit-learn",
     "yaml",
-    "tensorflow"
+    "tensorflow==1.15",
+    "imageio"
 ]
 
 test_pkgs = []
