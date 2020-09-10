@@ -10,7 +10,7 @@ dependencies:
   - numpy
   - pandas
   - pillow
-  - scipy
+  - scipy=1.2.1
   - scikit-learn
   - yaml
   - tensorflow=1.15
